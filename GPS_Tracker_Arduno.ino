@@ -10,8 +10,8 @@
 #define WIFI_PASSWORD "12345678"
 
 // Firebase Config
-#define FIREBASE_HOST "gpstracker-96510-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "9VsEyzaGiz9NmywgWELZrG5taLRm1PbXT4aQecdk"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 const char* deviceName = "GPS-Tracker-1";
 
 // GPS Setup
